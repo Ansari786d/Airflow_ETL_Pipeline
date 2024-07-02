@@ -1,6 +1,7 @@
 # Airflow_ETL_Pipeline
 Build an End to End ETL pipeline using Airflow!
-here I are using open weather api 
+
+Here I am using open weather api 
 1.First we are checking is the api available if the 
     API is not available then we will wait until the api is 
     up.
